@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab2_Layouts</string>
+    <string name="todo">TODO</string>
+
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+
+    <string name="rtitle">Relative</string>
+    <string name="ctitle">Constraint</string>
+    <string name="ltitle">Linear</string>
+    <string name="location">Location</string>
+    <string name="distance">Distance from UST</string>
+
+
+</resources>
