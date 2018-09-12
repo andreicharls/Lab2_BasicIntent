@@ -10,6 +10,7 @@
     <string name="ltitle">Linear</string>
     <string name="location">Location</string>
     <string name="distance">Distance from UST</string>
+    <string name="select_a_layout">Select a Layout</string>
 
 
 </resources>
